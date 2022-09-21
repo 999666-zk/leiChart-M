@@ -1,0 +1,186 @@
+{
+    "result": {
+        "data": [
+            {
+                "item": "Design",
+                "user": "轻流",
+                "score": 70
+            },
+            {
+                "item": "Design",
+                "user": "轻析",
+                "score": 30
+            },
+            {
+                "item": "Design",
+                "user": "c",
+                "score": 20
+            },
+            {
+                "item": "Design",
+                "user": "d",
+                "score": 40
+            },
+            {
+                "item": "Design",
+                "user": "e",
+                "score": 40
+            },
+            {
+                "item": "Design",
+                "user": "f",
+                "score": 40
+            },
+            {
+                "item": "Development",
+                "user": "轻流",
+                "score": 60
+            },
+            {
+                "item": "Development",
+                "user": "轻析",
+                "score": 70
+            },
+            {
+                "item": "Development",
+                "user": "c",
+                "score": 10
+            },
+            {
+                "item": "Development",
+                "user": "d",
+                "score": 20
+            },
+            {
+                "item": "Development",
+                "user": "e",
+                "score": 20
+            },
+            {
+                "item": "Development",
+                "user": "f",
+                "score": 20
+            },
+            {
+                "item": "Marketing",
+                "user": "轻流",
+                "score": 50
+            },
+            {
+                "item": "Marketing",
+                "user": "轻析",
+                "score": 60
+            },
+            {
+                "item": "Marketing",
+                "user": "c",
+                "score": 30
+            },
+            {
+                "item": "Marketing",
+                "user": "d",
+                "score": 45
+            },
+            {
+                "item": "Marketing",
+                "user": "e",
+                "score": 45
+            },
+            {
+                "item": "Marketing",
+                "user": "f",
+                "score": 45
+            },
+            {
+                "item": "Users",
+                "user": "轻流",
+                "score": 40
+            },
+            {
+                "item": "Users",
+                "user": "轻析",
+                "score": 50
+            },
+            {
+                "item": "Users",
+                "user": "c",
+                "score": 30
+            },
+            {
+                "item": "Users",
+                "user": "d",
+                "score": 50
+            },
+            {
+                "item": "Users",
+                "user": "e",
+                "score": 50
+            },
+            {
+                "item": "Users",
+                "user": "f",
+                "score": 50
+            },
+            {
+                "item": "Test",
+                "user": "轻流",
+                "score": 60
+            },
+            {
+                "item": "Test",
+                "user": "轻析",
+                "score": 70
+            },
+            {
+                "item": "Test",
+                "user": "c",
+                "score": 40
+            },
+            {
+                "item": "Test",
+                "user": "d",
+                "score": 20
+            },
+            {
+                "item": "Test",
+                "user": "e",
+                "score": 20
+            },
+            {
+                "item": "Test",
+                "user": "f",
+                "score": 20
+            },
+            {
+                "item": "Language",
+                "user": "轻流",
+                "score": 70
+            },
+            {
+                "item": "Language",
+                "user": "轻析",
+                "score": 50
+            },
+            {
+                "item": "Language",
+                "user": "c",
+                "score": 30
+            },
+            {
+                "item": "Language",
+                "user": "d",
+                "score": 20
+            },
+            {
+                "item": "Language",
+                "user": "e",
+                "score": 20
+            },
+            {
+                "item": "Language",
+                "user": "f",
+                "score": 20
+            }
+        ]
+    }
+}
